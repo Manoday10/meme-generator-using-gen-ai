@@ -1,5 +1,5 @@
-openai
-stability-sdk
+
+
 pillow
 requests
 Flask
