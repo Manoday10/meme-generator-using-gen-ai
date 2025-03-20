@@ -1,5 +1,0 @@
-openai
-stability
-pillow
-requests
-Flask
